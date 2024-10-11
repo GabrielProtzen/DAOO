@@ -9,4 +9,4 @@ $obj = new Pessoa;
 $obj->nome = "Gill";
 $obj->idade = 34;
 
-var_dump($obj);
+var_dump($o
